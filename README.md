@@ -1,10 +1,6 @@
-# !!DEPRECATED!!
+# Blobmoji for Magisk
 
-Please use https://github.com/Magisk-Modules-Repo/Fontchanger and this repo is no longer maintained.
-
-# Blobmoji
-
-![Noto Emoji with Blobs enabled](https://github.com/C1710/blobmoji/raw/emoji12/images/noto.png)
+![Noto Emoji with Blobs enabled](noto.png)
 
 This repository is intended to continue the development of the Blob emojis which have been abandoned by the original creators in 2017.
 
