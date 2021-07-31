@@ -1,6 +1,6 @@
 id=blobmoji
 name=Blobmoji
-version=13.1 9aab588 (Jul 15, 2021)
-versionCode=18
-author=C1710 (originally ported by simonsmh, now David Berdik)
+version=Emoji 14, release 1 (Jul 31, 2021)
+versionCode=19
+author=module by: David Berdik; font by: C1710
 description=Noto Color Emoji with Blobs enabled.
