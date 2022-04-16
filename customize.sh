@@ -1,3 +1,7 @@
+ui_print "*******************************"
+ui_print "      Blobmoji for Magisk      "
+ui_print "*******************************"
+ui_print ""
 ui_print "- Searching in fonts.xml"
 [[ -d /sbin/.magisk/mirror ]] && MIRRORPATH=/sbin/.magisk/mirror || unset MIRRORPATH
 FILE=/system/etc/fonts.xml
