@@ -2,5 +2,5 @@
 	"version": "Emoji 14, Release 3",
 	"versionCode": 21,
 	"zipUrl": "https://github.com/DavidBerdik/blobmoji/releases/download/14-r3/Blobmoji-14-Release-3.zip",
-	"changelog": "https://github.com/DavidBerdik/blobmoji/releases/tag/14-r3"
+	"changelog": "https://raw.githubusercontent.com/DavidBerdik/blobmoji/master/changelog.md"
 }
