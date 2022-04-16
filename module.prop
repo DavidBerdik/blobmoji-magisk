@@ -4,3 +4,4 @@ version=Emoji 14, release 2 (Sep 14, 2021)
 versionCode=20
 author=David Berdik; font by: C1710
 description=Noto Color Emoji with Blobs enabled.
+updateJson=https://raw.githubusercontent.com/DavidBerdik/blobmoji/master/update.json
