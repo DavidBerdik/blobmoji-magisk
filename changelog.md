@@ -1,5 +1,2 @@
-### Blobmoji 14, Release 3 Changelog
-This version of the Blobmoji Magisk Module is a minor update to fix the following issues:
-
-- Fixed issue with Blob Emoji not applying on fresh installs when installing the module using Magisk 24.
-- Added support for Magisk 24's new module updating system.
+### Blobmoji 15, Release 1 Changelog
+This version of the Blobmoji Magisk Module is based on @C1710's release of Blobmoji 15 provided [here](https://github.com/C1710/blobmoji/releases/tag/v15.0-alpha.1). The `Blobmoji.ttf` file was used for this release.
