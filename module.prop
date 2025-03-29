@@ -1,7 +1,7 @@
 id=blobmoji
 name=Blobmoji
-version=Emoji 15.1 Beta, Release 1
-versionCode=24
+version=Emoji 16, Release 1
+versionCode=25
 author=David Berdik; font by C1710
 description=Replace Android's default emojis with an updated version of the Blob Emojis which Google retired in 2017.
-updateJson=https://raw.githubusercontent.com/DavidBerdik/blobmoji/master/update.json
+updateJson=https://raw.githubusercontent.com/DavidBerdik/blobmoji-magisk/master/update.json
