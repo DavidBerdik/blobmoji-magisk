@@ -1,6 +1,6 @@
 {
-	"version": "Blobmoji 16, Release 3",
-	"versionCode": 27,
-	"zipUrl": "https://github.com/DavidBerdik/blobmoji/releases/download/16-r3/Blobmoji-16-Release-3.zip",
+	"version": "Blobmoji 17, Release 1",
+	"versionCode": 28,
+	"zipUrl": "https://github.com/DavidBerdik/blobmoji/releases/download/17-r1/Blobmoji-17-Release-1.zip",
 	"changelog": "https://raw.githubusercontent.com/DavidBerdik/blobmoji-magisk/master/changelog.md"
 }
